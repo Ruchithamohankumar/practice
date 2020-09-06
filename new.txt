@@ -1,1 +1,2 @@
 this is new file , present in new branch
+I'm learning bit of git
